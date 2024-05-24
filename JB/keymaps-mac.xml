@@ -1,0 +1,65 @@
+<keymap version="2" name="MyKeymap MacOS" parent="VSCode OSX">
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="EditorIndentLineOrSelection" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GitLab.Merge.Request.List.Refresh" />
+  <action id="JupyterNotebookPasteCellAboveCommandModeAction">
+    <keyboard-shortcut first-keystroke="shift v" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="TextEditorWithPreview.Layout.PreviewOnly" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.RefreshFileHistory" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>
